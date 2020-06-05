@@ -443,14 +443,14 @@ body{background-color:#fff}.logo a:hover,.logo a:focus{color:#859bb1 !important}
 <div class="layout__inner" style="border-collapse: collapse; display: table; width: 100%;">
 <div class="column" style="text-align: left; color: #8e959c; font-size: 14px; line-height: 21px; font-family: sans-serif;">
 <div style="margin-left: 20px; margin-right: 20px;">
-<div style="mso-line-height-rule: exactly; line-height: 33px; font-size: 1px;"><span style="color: #000000; font-size: 14px;">�𾴵�HR���ã�</span></div>
+<div style="mso-line-height-rule: exactly; line-height: 33px; font-size: 1px;"><span style="color: #000000; font-size: 14px;">尊敬的HR您好：</span></div>
 </div>
 <div style="margin-left: 20px; margin-right: 20px;">
 <div style="mso-line-height-rule: exactly; mso-text-raise: 11px; vertical-align: middle;">
-<p style="margin-top: 20px; margin-bottom: 0;"><span style="color: #000000;">���Ǻ��Ϲ�ҵ��ѧ2021�챾�������죬���䣺xiao@findxiao.com, ΢�ţ�17773342258 ��������վ��</span><a style="text-decoration: underline; transition: opacity 0.1s ease-in; color: #18527c;" href="http://findxiao.com/">http://findxiao.com/</a></p>
-<p style="margin-top: 20px; margin-bottom: 0;"><span style="color: #000000;">��Ŀǰ�����£�����Ѱ����Ȼ���Դ�������������ʵϰ����ɽ���6���������ģ����������е��ڡ����Ź�˾������Ƹ��ظ�λ���ش���ѯ��</span></p>
-<p style="margin-top: 20px; margin-bottom: 0;"><span style="color: #000000;">����Ŀǰ����Ҫѧϰ���о�����ΪNLP�Լ�ASR���������Ѹ��ϣ���������Ӱ�ť������ϣ���˽���࣬��������ϵ��</span></p>
-<p style="margin-top: 20px; margin-bottom: 0;"><span style="color: #000000;">ף��������죬����˳��!</span></p>
+<p style="margin-top: 20px; margin-bottom: 0;"><span style="color: #000000;">我是湖南工业大学2021届本科生张潇，邮箱：xiao@findxiao.com, 微信：17773342258 ，个人网站：</span><a style="text-decoration: underline; transition: opacity 0.1s ease-in; color: #18527c;" href="http://findxiao.com/">http://findxiao.com/</a></p>
+<p style="margin-top: 20px; margin-bottom: 0;"><span style="color: #000000;">我目前大三下，正在寻找自然语言处理及语音处理实习（最长可接受6个月至大四），可六月中到岗。听闻贵司正在招聘相关岗位，特此来询。</span></p>
+<p style="margin-top: 20px; margin-bottom: 0;"><span style="color: #000000;">本人目前的主要学习和研究方向为NLP以及ASR，简历请已附上，请见下链接按钮。如您希望了解更多，请与我联系。</span></p>
+<p style="margin-top: 20px; margin-bottom: 0;"><span style="color: #000000;">祝您工作愉快，生活顺利!</span></p>
 </div>
 </div>
 </div>
@@ -467,7 +467,7 @@ body{background-color:#fff}.logo a:hover,.logo a:focus{color:#859bb1 !important}
 <div style="mso-line-height-rule: exactly; line-height: 5px; font-size: 1px;">&nbsp;</div>
 </div>
 <div style="margin-left: 20px; margin-right: 20px;">
-<div class="btn btn--flat btn--medium" style="text-align: center;"><a style="border-radius: 4px; display: inline-block; font-size: 12px; font-weight: bold; line-height: 22px; padding: 10px 20px; text-align: center; text-decoration: none !important; transition: opacity 0.1s ease-in; color: #ffffff !important; background-color: #e31212; font-family: Avenir, sans-serif;" href="http://findxiao.com/wp-content/uploads/2020/04/%E5%BC%A0%E6%BD%87%E7%9A%84%E7%AE%80%E5%8E%86%EF%BC%88Robert.pdf">�ҵļ���</a></div>
+<div class="btn btn--flat btn--medium" style="text-align: center;"><a style="border-radius: 4px; display: inline-block; font-size: 12px; font-weight: bold; line-height: 22px; padding: 10px 20px; text-align: center; text-decoration: none !important; transition: opacity 0.1s ease-in; color: #ffffff !important; background-color: #e31212; font-family: Avenir, sans-serif;" href="http://findxiao.com/wp-content/uploads/2020/04/%E5%BC%A0%E6%BD%87%E7%9A%84%E7%AE%80%E5%8E%86%EF%BC%88Robert.pdf">我的简历</a></div>
 </div>
 </div>
 </div>
@@ -488,14 +488,14 @@ body{background-color:#fff}.logo a:hover,.logo a:focus{color:#859bb1 !important}
 </div>
 <div style="margin-left: 20px; margin-right: 20px;">
 <div style="mso-line-height-rule: exactly; mso-text-raise: 11px; vertical-align: middle;">
-<p class="size-18" lang="x-size-18" style="margin-top: 0; margin-bottom: 20px; font-size: 17px; line-height: 26px; text-align: center;"><span style="color: #000000;">��л�Ķ����ڴ����Ļظ���</span></p>
+<p class="size-18" lang="x-size-18" style="margin-top: 0; margin-bottom: 20px; font-size: 17px; line-height: 26px; text-align: center;"><span style="color: #000000;">感谢阅读，期待您的回复。</span></p>
 </div>
 </div>
 <div style="margin-left: 20px; margin-right: 20px;">
 <div style="mso-line-height-rule: exactly; line-height: 1px; font-size: 1px;">&nbsp;</div>
 </div>
 <div style="margin-left: 20px; margin-right: 20px;">
-<div class="btn btn--flat btn--medium" style="text-align: center;"><a style="border-radius: 4px; display: inline-block; font-size: 12px; font-weight: bold; line-height: 22px; padding: 10px 20px; text-align: center; text-decoration: none !important; transition: opacity 0.1s ease-in; color: #fff !important; background-color: #281557; font-family: Avenir, sans-serif;" href="http://findxiao.com/?page_id=11">��˿���ϵ��</a></div>
+<div class="btn btn--flat btn--medium" style="text-align: center;"><a style="border-radius: 4px; display: inline-block; font-size: 12px; font-weight: bold; line-height: 22px; padding: 10px 20px; text-align: center; text-decoration: none !important; transition: opacity 0.1s ease-in; color: #fff !important; background-color: #281557; font-family: Avenir, sans-serif;" href="http://findxiao.com/?page_id=11">点此可联系我</a></div>
 </div>
 </div>
 </div>
